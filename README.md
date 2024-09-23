@@ -14,11 +14,11 @@ This is an Android app built using **Android Studio** to calculate a user's idea
   <tr>
     <td align="center">
       <img src="image/BodyWeight1.png" alt="App Home Screen" width="250" style="border-radius: 8px;"/>
-      <br><strong>Figure 1: Main Screen where you input height</strong>
+      <br><strong>Main Screen where you input height</strong>
     </td>
     <td align="center">
       <img src="image/BodyWeight2.png" alt="Result Screen" width="250" style="border-radius: 8px;"/>
-      <br><strong>Figure 2: Result Screen showing the ideal weight and BMI range</strong>
+      <br><strong>Result Screen showing the ideal weight</strong>
     </td>
   </tr>
 </table>
