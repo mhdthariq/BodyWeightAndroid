@@ -10,18 +10,19 @@ This is an Android app built using **Android Studio** to calculate a user's idea
 
 ## Screenshots
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="border: none; text-align: center;">
       <img src="image/BodyWeight1.png" alt="App Home Screen" width="200"/>
-      <br>*Figure 1: Main Screen where you input height.*
+      <br><strong>Figure 1: Main Screen where you input height.</strong>
     </td>
     <td style="border: none; text-align: center;">
       <img src="image/BodyWeight2.png" alt="Result Screen" width="200"/>
-      <br>*Figure 2: Result Screen showing the ideal weight and BMI range.*
+      <br><strong>Figure 2: Result Screen showing the ideal weight and BMI range.</strong>
     </td>
   </tr>
 </table>
+
 
 ## Getting Started
 
