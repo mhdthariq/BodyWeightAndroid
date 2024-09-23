@@ -29,3 +29,23 @@ This is an Android app built using **Android Studio** to calculate a user's idea
 
    ```bash
    git clone https://github.com/yourusername/IdealBodyWeightCalculator.git
+   ```
+
+2. **Open the project in Android Studio**:
+   - Start Android Studio and select **Open an Existing Project**.
+   - Navigate to the location where you cloned the repository and open the project.
+
+3. **Build the project**:
+   - Let Android Studio sync the Gradle files and resolve dependencies.
+   - Click **Build** -> **Rebuild Project** to make sure everything is set up correctly.
+
+4. **Run the app**:
+   - Connect an Android device or launch an emulator.
+   - Click the **Run** button in Android Studio to install and run the app on your device/emulator.
+
+### Usage
+
+1. Open the app on your device.
+2. Input your height in the designated field.
+3. Click the **Calculate** button.
+4. The app will display your ideal body weight and indicate whether you're underweight, at an ideal weight, or overweight.
