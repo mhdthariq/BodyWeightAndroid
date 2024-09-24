@@ -36,7 +36,7 @@ This is an Android app built using **Android Studio** to calculate a user's idea
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/IdealBodyWeightCalculator.git
+   git clone https://github.com/mhdthariq/IdealBodyWeightCalculator.git
    ```
 
 2. **Open the project in Android Studio**:
